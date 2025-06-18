@@ -36,7 +36,6 @@ A full-stack travel accommodation listing platform inspired by Airbnb. Built usi
 ![image](https://github.com/user-attachments/assets/4cfdc495-2a47-4e7c-80df-92cdbfd88981)
 ![image](https://github.com/user-attachments/assets/7c60da4a-cc37-41ef-8ceb-7d10b58c749d)
 
-
 ---
 
 ## 📦 Installation
