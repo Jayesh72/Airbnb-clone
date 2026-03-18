@@ -1,6 +1,4 @@
-# Airbnb-clone
-
-# WanderLust 🏕️
+# WanderStay 🏕️
 A full-stack travel accommodation listing platform inspired by Airbnb. Built using **Node.js**, **Express**, **MongoDB**, **EJS**.
 
 ---
